@@ -1,0 +1,6 @@
+name: FloodVolumeCalculatorApp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
