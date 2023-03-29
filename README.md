@@ -11,7 +11,7 @@ App for easily calculating flood volumes (in gallons) for 2D Zones layers export
 - Windows Operating System
 
 ## How to Install
-1. If you don't already have Miniconda 3 installed, [you can install it from here](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe).
+1. If you don't already have Miniconda 3 installed, [you can install it from here](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe). Make sure to install for all users on the computer.
 2. [Download the code here](https://github.com/mjh92794/InfoWorks-ICM-Flood-Volume-Calculator/archive/refs/heads/main.zip) and unzip the folder.
 3. Double click the file "condaInstaller.bat" and follow the prompts in the window that appears (you may have to type "y" on some prompts to install the required libraries). This will create a new conda environment with the required libraries and save a desktop shortcut to run the program.
 4. On your desktop, double click the file "Flood Volume Calculator" to run the application.
